@@ -2,7 +2,7 @@
 Convert your files quickly and securely with our user-friendly web application.
 
 ## Overview
-The File Converter App is a simple and intuitive web application designed to help you convert files from one format to another with ease. Whether you need to change an image format or convert documents, our app provides a hassle-free solution without the need to install any software.
+FileCabinet is a simple and intuitive web application designed to help you convert files from one format to another with ease. Whether you need to change an image format or convert documents, our app provides a hassle-free solution without the need to install any software.
 
 ## Features
 - Easy Upload: Upload files directly from your device with a single click.
@@ -104,11 +104,11 @@ Contribute to the Code:
 
 Fork the repository and submit a pull request with your enhancements.
 License
-The File Converter App is open-source software licensed under the MIT License.
+FileCabinet is open-source software licensed under the MIT License.
 
 Acknowledgments
 React: For providing a powerful frontend library.
 Node.js and Express: For enabling a solid backend infrastructure.
 Sharp: For efficient and high-quality image processing capabilities.
-Community Contributors: Thank you to everyone who has contributed to this project.
+Community Contributors: Thank you to everyone who has and/or will contributed to this project.
 Empowering users to manage their files effortlessly and securely.
